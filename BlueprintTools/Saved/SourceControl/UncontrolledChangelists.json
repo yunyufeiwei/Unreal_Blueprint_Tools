@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Editor/TextureSettings/EUBP_LB_TextureSetting_Structure.uasset",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Editor/TextureSettings/DT_RD_TextureProperty.uasset",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Editor/TextureSettings/UDS_LB_TextureProperty.uasset",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Maps/Level_TestMap.umap",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Art/Editor/TextureSetting/UDS_LB_TextureProperty.uasset",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Art/Editor/TextureSetting/EUBP_LB_TextureSetting_Structure.uasset",
+				"D:/UnrealProject_Local/Unreal_Blueprint_Tools/BlueprintTools/Content/Art/Editor/TextureSetting/DT_RD_TextureProperty.uasset"
+			]
+		}
+	]
+}
